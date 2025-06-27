@@ -4,7 +4,7 @@
 // @version      1.5
 // @description  Block Spam Comments at Sportal.bg
 // @author       Mrslv
-// @match        *://*.sportal.bg/*
+// @match        sportal.bg/*
 // @updateURL    https://raw.githubusercontent.com/MrslvKlv/SportalSpamBlock/main/sptSpamBlock.user.js
 // @downloadURL  https://raw.githubusercontent.com/MrslvKlv/SportalSpamBlock/main/sptSpamBlock.user.js
 // @grant        none
